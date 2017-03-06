@@ -36,9 +36,25 @@
 	<HugsLib_logs_abortBtn>Przerwij</HugsLib_logs_abortBtn>
 	<HugsLib_logs_retryBtn>Powtórz</HugsLib_logs_retryBtn>
 	<HugsLib_logs_browseBtn>Otwórz w przeglądarce</HugsLib_logs_browseBtn>
+	
+	<HugsLib_logs_filesBtn>Pliki</HugsLib_logs_filesBtn>
+	<HugsLib_logs_openLogFile>Otwórz plik z logami</HugsLib_logs_openLogFile>
+	<HugsLib_logs_openSaveDir>Otwórz folder z zapisami</HugsLib_logs_openSaveDir>
+	<HugsLib_logs_openModsDir>Otwórz folder z modami</HugsLib_logs_openModsDir>
+
+	<HugsLib_restart_title>Zrestartuj grę</HugsLib_restart_title>
+	<HugsLib_restart_text>Zmiany zostały zapisane.\n\nAby aktywować nowe zmiany, zalecamy zrestartować grę.</HugsLib_restart_text>
+	<HugsLib_restart_restartNowBtn>Zestartuj teraz</HugsLib_restart_restartNowBtn>
+	<HugsLib_restart_autoToggle>Zrestartuj automatycznie</HugsLib_restart_autoToggle>
+	<HugsLib_restart_restarting>Restartowanie</HugsLib_restart_restarting>
+	<HugsLib_setting_autoRestart_label>Zrestartuj po zmianach w zakładce Modyfikacje.</HugsLib_setting_autoRestart_label>
+	<HugsLib_setting_autoRestart_desc>Automatycznie zresetuj po dokonaniu zmian w zakładce Modyfikacje.</HugsLib_setting_autoRestart_desc>
+
 
 	<test_enumSetting_DefaultValue>Wartość domyślna</test_enumSetting_DefaultValue>
 	<test_enumSetting_ValueOne>Pierwsza wartość</test_enumSetting_ValueOne>
 	<test_enumSetting_ValueTwo>Druga wartość</test_enumSetting_ValueTwo>
+	
+	
 	
 </LanguageData>
